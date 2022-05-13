@@ -3,11 +3,7 @@ import Authentication from './routes/authentication/authentication.component'
 
 import Home from './routes/home/home.component'
 import Navigation from './routes/navigation/navigation.component'
-
-const Shop = () => {
-  return <h1>shop component</h1>
-}
-
+import Shop from './routes/shop/shop.component'
 const App = () => {
   return (
     <Routes>
