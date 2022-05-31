@@ -25,7 +25,6 @@ const Checkout = () => {
 					<span>Remove</span>
 				</div>
 			</div>
-			<h1>Checkout</h1>
 
 			{
 				cartItems.map((cartItem) => {
