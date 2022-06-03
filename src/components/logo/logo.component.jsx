@@ -1,5 +1,4 @@
 import * as React from "react";
-import './logo.styles.scss';
 
 const SvgCrown = (props) => (
 	<svg width={50} height={39} xmlns="http://www.w3.org/2000/svg" {...props}>
